@@ -1,0 +1,87 @@
+Thank you for using the Call Center Simulator!
+
+Please enter the length of the simulation: 
+20
+Please enter the average time between calls: 
+5
+Please enter the average call duration: 
+5
+Please enter the number of modems in the modem bank: 
+5
+Please enter the waiting queue size (enter -1 for infinite queue): 
+5
+
+-- Simulation Results --
+Modem usage percentage: 10.00
+Average wait time: 0.00
+Users in queue at end of simulation: 0
+
+Simulation is complete. Summary in file report.txt
+
+Would you like to run another simulation? (Y/N): 
+y
+
+Please enter the length of the simulation: 
+20
+Please enter the average time between calls: 
+5
+Please enter the average call duration: 
+5
+Please enter the number of modems in the modem bank: 
+
+5
+Please enter the waiting queue size (enter -1 for infinite queue): 
+5
+
+-- Simulation Results --
+Modem usage percentage: 12.00
+Average wait time: 0.00
+Users in queue at end of simulation: 0
+
+Simulation is complete. Summary in file report.txt
+
+Would you like to run another simulation? (Y/N): 
+y
+
+Please enter the length of the simulation: 
+20
+Please enter the average time between calls: 
+5
+Please enter the average call duration: 
+5
+Please enter the number of modems in the modem bank: 
+5
+Please enter the waiting queue size (enter -1 for infinite queue): 
+5
+
+-- Simulation Results --
+Modem usage percentage: 16.00
+Average wait time: 0.00
+Users in queue at end of simulation: 0
+
+Simulation is complete. Summary in file report.txt
+
+Would you like to run another simulation? (Y/N): 
+y
+
+Please enter the length of the simulation: 
+20
+Please enter the average time between calls: 
+5
+Please enter the average call duration: 
+5
+Please enter the number of modems in the modem bank: 
+5
+Please enter the waiting queue size (enter -1 for infinite queue): 
+5
+
+-- Simulation Results --
+Modem usage percentage: 22.00
+Average wait time: 0.00
+Users in queue at end of simulation: 0
+
+Simulation is complete. Summary in file report.txt
+
+Would you like to run another simulation? (Y/N): 
+n
+Thank you for using the Call Center Simulator. Have a good day! :)

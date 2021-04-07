@@ -1,0 +1,2 @@
+Simulation Length     Average Time Between Calls     Average Call Duration     Number of Modems     Size of Queue     Modem Usage Percentage     Average Wait Time     Waiting Users at End
+     20.0                        5.00                        5.00                     5                   5                    22.00                    0.00                      0
